@@ -1,0 +1,6 @@
+******Datos de registros de Curso 2024****** 
+ Facultad de Ingenieria Informatica y Sistema - FIIS
+Curso: Lenguaje de Programación Basica --> Credito:  5 
+Curso: Diseño de Base de Datos --> Credito:  4 
+Curso: Patrones de Arquitectura de SW --> Credito:  4 
+********************************************
